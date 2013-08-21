@@ -176,7 +176,7 @@
     </integer-array>
 
     <!-- CRT animation -->
-    <bool name="config_animateScreenLights">false</bool>
+    <bool name="config_animateScreenLights">true</bool>
 
     <!-- Boolean indicating if current platform need do one-time bluetooth address
          re-validation -->
